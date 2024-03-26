@@ -1,0 +1,212 @@
+{
+    "1001": {
+        "Age": 51,
+        "Gender": "Female",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Straight/Heterosexual",
+        "Date of Diagnosis": 1996
+    },
+    "1002": {
+        "Age": 54,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1992
+    },
+    "1003": {
+        "Age": 43,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 2009
+    },
+    "1005": {
+        "Age": 57,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Bisexual",
+        "Date of Diagnosis": 1991
+    },
+    "1007": {
+        "Age": 53,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 2017
+    },
+    "1008": {
+        "Age": 53,
+        "Gender": "Female",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Straight/Heterosexual",
+        "Date of Diagnosis": 2000
+    },
+    "1009": {
+        "Age": 58,
+        "Gender": "Female",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Straight/Heterosexual",
+        "Date of Diagnosis": 1986
+    },
+    "1011": {
+        "Age": 56,
+        "Gender": "Female",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Straight/Heterosexual",
+        "Date of Diagnosis": 1983
+    },
+    "1013": {
+        "Age": 61,
+        "Gender": "Female",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Straight/Heterosexual",
+        "Date of Diagnosis": 1995
+    },
+    "1015": {
+        "Age": 68,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1991
+    },
+    "1016": {
+        "Age": 39,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 2004
+    },
+    "1017": {
+        "Age": 56,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1993
+    },
+    "1020": {
+        "Age": 54,
+        "Gender": "Male",
+        "Ethnicity": "Hispanic/ Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1998
+    },
+    "1021": {
+        "Age": 60,
+        "Gender": "Male",
+        "Ethnicity": "Hispanic/ Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1999
+    },
+    "1022": {
+        "Age": 56,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 2008
+    },
+    "1023": {
+        "Age": 74,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1987
+    },
+    "1024": {
+        "Age": 68,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1991
+    },
+    "1025": {
+        "Age": 58,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Straight/Heterosexual",
+        "Date of Diagnosis": 2012
+    },
+    "1026": {
+        "Age": 49,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 2006
+    },
+    "1029": {
+        "Age": 52,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Straight/Heterosexual",
+        "Date of Diagnosis": 1993
+    },
+    "1031": {
+        "Age": 52,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 2001
+    },
+    "1032": {
+        "Age": 73,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1988
+    },
+    "1033": {
+        "Age": 62,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1997
+    },
+    "1034": {
+        "Age": 62,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Bisexual",
+        "Date of Diagnosis": 1998
+    },
+    "1036": {
+        "Age": 55,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1995
+    },
+    "1037": {
+        "Age": 69,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1997
+    },
+    "1039": {
+        "Age": 69,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Bisexual",
+        "Date of Diagnosis": 1996
+    },
+    "1040": {
+        "Age": 64,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1991
+    },
+    "1041": {
+        "Age": 58,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Gay/Homosexual",
+        "Date of Diagnosis": 1985
+    },
+    "1042": {
+        "Age": 61,
+        "Gender": "Male",
+        "Ethnicity": "Not Hispanic or Latino",
+        "Orientation": "Straight/Heterosexual",
+        "Date of Diagnosis": 1989
+    }
+}

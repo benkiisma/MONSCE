@@ -1,0 +1,26 @@
+{
+    "include_neutral_emotion": true,
+    "subjects_to_remove": [1002, 1005, 1009, 1011, 1016, 1021, 1023, 1029, 1034, 1036],
+    "desired_measurement": ["Empatica", "Transcript", "Audio", "FaceReader", "GoPro", "SRE"],
+    "nb_seconds": 9,
+    "groups": {
+      "Cluster 1": [1003, 1007, 1013, 1015, 1020, 1024, 1026],
+      "Cluster 2": [1001, 1031, 1032, 1037, 1039],
+      "Cluster 3": [1008, 1017, 1022, 1025, 1033, 1040, 1041, 1042],
+      "All Subjects": [1001, 1003, 1007, 1008, 1013, 1015, 1017, 1020, 1022, 1024, 1025, 1026, 1031, 1032, 1033, 1037, 1039, 1040, 1041]
+    },
+    "paths": {
+      "Dell_01": {
+        "data_path": "E:\\MONSCE Data Edited",
+        "repo_path": "/Users/ib848/Desktop/monsce"
+      },
+      "MAL-BIANCANEVE": {
+        "data_path": "/media/mal/MONSCE DATA/MONSCE Data Edited",
+        "repo_path": "/home/mal/Documents/Isma/monsce"
+      },
+      "MacBook-Pro-de-Ismail.local": {
+        "data_path": "/Volumes/MONSCE DATA/MONSCE Data Edited"
+      }
+    }
+  }
+  

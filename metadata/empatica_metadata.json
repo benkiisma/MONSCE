@@ -1,0 +1,34 @@
+{
+    "acc": {
+        "name": "Accelerometer",
+        "x_title": "Time (s)",
+        "y_title_1": "ACC_X (1/64g)",
+        "y_title_2": "ACC_Y (1/64g)",
+        "y_title_3": "ACC_Z (1/64g)"
+    },
+    "bvp": {
+        "name": "BVP",
+        "x_title": "Time (s)",
+        "y_title": "BVP Value"
+    },
+    "eda": {
+        "name": "Electrodermal Activity",
+        "x_title": "Time (s)",
+        "y_title": "EDA (\u03bcS)"
+    },
+    "hr": {
+        "name": "Heart Rate",
+        "x_title": "Time (s)",
+        "y_title": "Heart Rate (bpm)"
+    },
+    "ibi": {
+        "name": "Inter-Beat Interval",
+        "x_title": "Time (s)",
+        "y_title": "IBI Duration (s)"
+    },
+    "temp": {
+        "name": "Temperature",
+        "x_title": "Time (s)",
+        "y_title": "Temperature (\u00b0C)"
+    }
+}
